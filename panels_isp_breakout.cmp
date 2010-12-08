@@ -1,0 +1,31 @@
+Cmp-Mod V01 Created by CVpcb (20090216-final) date = Wed 01 Dec 2010 05:23:38 PM PST
+
+BeginCmp
+TimeStamp = /4CF41527;
+Reference = 10K1;
+ValeurCmp = R;
+IdModule  = R3;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF4150F;
+Reference = P1;
+ValeurCmp = CONN_8;
+IdModule  = pinarray_8x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF414FD;
+Reference = P2;
+ValeurCmp = CONN_4;
+IdModule  = pinarray_4x1;
+EndCmp
+
+BeginCmp
+TimeStamp = /4CF4151E;
+Reference = P3;
+ValeurCmp = CONN_3X2;
+IdModule  = pinarray_3x2;
+EndCmp
+
+EndListe

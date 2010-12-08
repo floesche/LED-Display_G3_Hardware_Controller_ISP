@@ -1,0 +1,40 @@
+# EESchema Netlist Version 1.1 created  Wed 01 Dec 2010 05:23:38 PM PST
+(
+ ( /4CF41527 R3 10K1 R
+  ( 1 N-000006 )
+  ( 2 N-000004 )
+ )
+ ( /4CF4150F pinarray_8x1 P1 CONN_8
+  ( 1 /SCL )
+  ( 2 /SDA )
+  ( 3 N-000004 )
+  ( 4 N-000003 )
+  ( 5 N-000005 )
+  ( 6 N-000002 )
+  ( 7 /5V/3V3 )
+  ( 8 GND )
+ )
+ ( /4CF414FD pinarray_4x1 P2 CONN_4
+  ( 1 /5V/3V3 )
+  ( 2 GND )
+  ( 3 /SCL )
+  ( 4 /SDA )
+ )
+ ( /4CF4151E pinarray_3x2 P3 CONN_3X2
+  ( 1 N-000003 )
+  ( 2 N-000006 )
+  ( 3 N-000005 )
+  ( 4 N-000002 )
+  ( 5 N-000004 )
+  ( 6 GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component 10K1
+ R?
+ SM0603
+ SM0805
+$endlist
+$endfootprintlist
+}
