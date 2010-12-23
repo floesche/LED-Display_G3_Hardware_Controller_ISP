@@ -1,4 +1,4 @@
-EESchema Schematic File Version 2  date Wed 01 Dec 2010 06:44:18 PM PST
+EESchema Schematic File Version 2  date Tue 14 Dec 2010 03:28:30 PM PST
 LIBS:power,device,transistors,conn,linear,regul,74xx,cmos4000,adc-dac,memory,xilinx,special,microcontrollers,dsp,microchip,analog_switches,motorola,texas,intel,audio,interface,digital-audio,philips,display,cypress,siliconi,opto,atmel,contrib,valves,./panels_isp_breakout.cache
 EELAYER 24  0
 EELAYER END
@@ -101,7 +101,7 @@ SCL
 Text Label 5850 2750 0    60   ~ 0
 GND
 Text Label 5850 2650 0    60   ~ 0
-5V/3V3
+3V3
 $Comp
 L R 10K1
 U 1 1 4CF41527
