@@ -1,5 +1,5 @@
-update=Wed 01 Dec 2010 05:22:45 PM PST
-last_client=cvpcb
+update=Fri 12 Nov 2021 12:15:50 AM EST
+last_client=kicad
 [general]
 version=1
 RootSch=panels_isp_breakout.sch
@@ -59,3 +59,6 @@ NetIExt=.net
 EquName1=devcms
 [common]
 NetDir=
+[eeschema]
+version=1
+LibDir=
