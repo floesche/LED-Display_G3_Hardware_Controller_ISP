@@ -10,7 +10,7 @@ nav_order: 3
 ![ISP Breakout board front](assets/panels_isp_breakout_front.png){:.ifr .pop}
 ![ISP Breakout board back](assets/panels_isp_breakout_back.png){:.ifr .pop .clear}
 
-This is an additional PCB for the Controller which adds an ISP interface to the [Controller]({{site.baseurl}}/Generation%203/Controller/docs/g3_controller.html) as well as the possibility to directly interact with a [panel]({{site.baseurl}}/Generation%203/Hardware/docs/panel.html). For technical details have a look at the preview of the [schematics](assets/panels_isp_breakout.pdf).
+This is an additional PCB for the Controller which adds an ISP interface to the [Controller]({{site.baseurl}}/Generation%203/Controller/docs/) as well as the possibility to directly interact with a [panel]({{site.baseurl}}/Generation%203/Hardware/docs/panel.html). For technical details have a look at the preview of the [schematics](assets/panels_isp_breakout.pdf).
 
 ## Parts list
 {:.clear}
